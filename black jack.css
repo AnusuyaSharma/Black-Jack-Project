@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Castoro&display=swap');
 
 .background{
-	background-image: url("images/cas.jpg");
+	background-image: url("cas.jpg");
 	background-size: cover;
 }
 
