@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Castoro&display=swap');
+
+.background{
+	background-image: url("images/cas.jpg");
+	background-size: cover;
+}
+
+#main{	
+	    text-align: center;
+
+}
+
+
+.big-heading{
+	font-family: 'Abril Fatface', cursive;
+    color: #DAA520;
+    margin-top: 170px;
+    margin-bottom:30px;
+    font-size: 3.5rem;
+   
+}
+
+.text{
+	font-family: 'Castoro', serif;
+	color: white;
+	font-size: 1.5rem;
+}
+
+.button{	font-family: 'Castoro', serif;
+			color:#013220;
+			background-color:#DAA520;
+			font-weight:bold;
+			font-size:1.4rem;
+			border:none;
+			border-radius:0.5rem;
+			padding: 3px 4px;
+		}
+
+.text-per{	font-family: 'Castoro', serif;
+        	color: white;
+	        font-size: 1.5rem;
+	        margin-top: 10px;
+}
